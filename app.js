@@ -37,7 +37,7 @@ app.post("/", function(req, res){
 
     const options = {
         method: "POST",
-        auth: "ifyanyi1:0250324c18ad4181d986633d39f351ac-us21"
+        auth: "ifyanyi1:b0aa09e21f460b6f83f372932f0debf6-us21"
     }
 
     const request = https.request(url, options, function(response){
@@ -70,5 +70,4 @@ app.listen(process.env.PORT || 3000, function(){
 
 //mailchimp Api
 // 366fdd2ff9c57f2799822b5a4977de75-us21
-// 0250324c18ad4181d986633d39f351ac-us21
-//id s  fe3bb3e650
+// b0aa09e21f460b6f83f372932f0debf6-us21
