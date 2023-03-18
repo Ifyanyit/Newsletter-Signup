@@ -69,6 +69,4 @@ app.listen(port, function(){
     console.log(`Server running on port ${port}`);
 })
 
-//mailchimp Api
-// 366fdd2ff9c57f2799822b5a4977de75-us21
-// b0aa09e21f460b6f83f372932f0debf6-us21
+
